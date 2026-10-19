@@ -5,7 +5,6 @@
 </div>
 
 </div>
-  <img data-importer="image" align="right" height="150" src="https://github.com/user-attachments/assets/19750600-d7bc-46ca-9cbb-0f87a8fd3b0b"  /> 
   <img data-importer="image" align="right" height="150" src="https://github.com/user-attachments/assets/ea7b3568-fd3f-4805-b3d4-6ba5bcafe681" />
 </div>
 
